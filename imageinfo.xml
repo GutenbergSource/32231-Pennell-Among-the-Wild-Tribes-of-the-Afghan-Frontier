@@ -1,0 +1,86 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="218" filedate="2010-02-11 21:03:56" width="16px" height="16px">
+</image>
+<image path="images/cover.jpg" filesize="76879" filedate="2010-04-12 19:52:26" width="446px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2010-02-11 21:03:56" width="12px" height="12px">
+</image>
+<image path="images/frontispiece.jpg" filesize="77811" filedate="2010-04-12 19:53:16" width="483px" height="720px">
+</image>
+<image path="images/p028.jpg" filesize="68440" filedate="2010-04-12 19:54:14" width="525px" height="720px">
+</image>
+<image path="images/p034.jpg" filesize="79814" filedate="2010-04-12 19:55:56" width="483px" height="720px">
+</image>
+<image path="images/p036.jpg" filesize="92847" filedate="2007-08-29 19:45:43" width="720px" height="484px">
+</image>
+<image path="images/p046-1.jpg" filesize="46985" filedate="2010-04-12 19:56:46" width="583px" height="442px">
+</image>
+<image path="images/p046-2.jpg" filesize="52944" filedate="2010-04-12 19:57:24" width="583px" height="511px">
+</image>
+<image path="images/p050-1.jpg" filesize="28762" filedate="2007-08-29 19:34:01" width="294px" height="442px">
+</image>
+<image path="images/p050-2.jpg" filesize="27868" filedate="2007-08-29 19:35:44" width="294px" height="440px">
+</image>
+<image path="images/p050-3.jpg" filesize="33414" filedate="2007-08-29 19:37:35" width="298px" height="442px">
+</image>
+<image path="images/p050-4.jpg" filesize="29946" filedate="2007-08-29 19:39:14" width="297px" height="442px">
+</image>
+<image path="images/p056.jpg" filesize="115045" filedate="2007-08-29 19:26:53" width="720px" height="484px">
+</image>
+<image path="images/p062.jpg" filesize="62436" filedate="2010-04-12 19:51:26" width="720px" height="485px">
+</image>
+<image path="images/p082-1.jpg" filesize="47302" filedate="2010-04-13 17:36:46" width="578px" height="406px">
+</image>
+<image path="images/p082-2.jpg" filesize="42876" filedate="2010-04-13 17:39:20" width="579px" height="363px">
+</image>
+<image path="images/p094-1.jpg" filesize="42090" filedate="2010-04-17 19:39:06" width="580px" height="362px">
+</image>
+<image path="images/p094-2.jpg" filesize="56864" filedate="2010-04-17 19:42:04" width="582px" height="422px">
+</image>
+<image path="images/p100.jpg" filesize="80060" filedate="2010-04-21 17:22:25" width="497px" height="720px">
+</image>
+<image path="images/p112-1.jpg" filesize="52291" filedate="2010-04-20 17:47:47" width="582px" height="468px">
+</image>
+<image path="images/p112-2.jpg" filesize="51197" filedate="2010-04-20 17:51:25" width="581px" height="386px">
+</image>
+<image path="images/p148-1.jpg" filesize="62991" filedate="2007-08-30 14:50:56" width="586px" height="436px">
+</image>
+<image path="images/p148-2.jpg" filesize="68738" filedate="2007-08-30 14:53:34" width="584px" height="441px">
+</image>
+<image path="images/p154-1.jpg" filesize="48352" filedate="2010-04-28 18:02:24" width="581px" height="400px">
+</image>
+<image path="images/p154-2.jpg" filesize="61083" filedate="2010-04-28 18:06:09" width="580px" height="435px">
+</image>
+<image path="images/p156-1.jpg" filesize="66290" filedate="2007-08-30 14:59:48" width="585px" height="405px">
+</image>
+<image path="images/p156-2.jpg" filesize="77558" filedate="2007-08-30 15:01:24" width="586px" height="475px">
+</image>
+<image path="images/p158-1.jpg" filesize="24435" filedate="2010-05-01 13:37:03" width="577px" height="327px">
+</image>
+<image path="images/p158-2.jpg" filesize="41494" filedate="2010-05-01 13:40:28" width="543px" height="474px">
+</image>
+<image path="images/p164.jpg" filesize="75229" filedate="2010-04-17 19:35:56" width="484px" height="720px">
+</image>
+<image path="images/p170.jpg" filesize="91661" filedate="2007-08-29 20:12:46" width="720px" height="483px">
+</image>
+<image path="images/p196.jpg" filesize="65453" filedate="2010-04-12 19:58:09" width="720px" height="485px">
+</image>
+<image path="images/p198-1.jpg" filesize="40823" filedate="2010-05-01 13:45:06" width="584px" height="401px">
+</image>
+<image path="images/p198-2.jpg" filesize="38738" filedate="2010-05-01 13:48:05" width="583px" height="399px">
+</image>
+<image path="images/p208.jpg" filesize="68666" filedate="2010-04-13 17:43:29" width="720px" height="484px">
+</image>
+<image path="images/p212.jpg" filesize="91868" filedate="2007-08-30 15:11:53" width="488px" height="720px">
+</image>
+<image path="images/p244.jpg" filesize="66521" filedate="2010-04-12 19:58:56" width="528px" height="720px">
+</image>
+<image path="images/p278.jpg" filesize="94863" filedate="2007-08-30 15:16:49" width="720px" height="483px">
+</image>
+<image path="images/p313.gif" filesize="70074" filedate="2010-04-12 19:59:34" width="558px" height="720px">
+</image>
+<image path="images/p313h.gif" filesize="222553" filedate="2010-04-12 20:00:00" width="1212px" height="1565px">
+</image>
+<image path="images/titlepage.gif" filesize="13533" filedate="2010-04-12 19:54:59" width="456px" height="720px">
+</image>
+</images>
